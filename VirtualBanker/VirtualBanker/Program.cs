@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace VirtualBanker
+﻿namespace VirtualBanker
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //program will run from here
+
         }
     }
 }
